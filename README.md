@@ -6,6 +6,6 @@ This is a project which I have developed for technical scouting of football play
 
 The full report is found by clicking the link in the title, where the file '*plots*' in link's repository contains examples of the plots. As an example, the radar plot is shown below.
 
-## Player Radar ![hal](images/D. Rice_vs_W. Ndidi_radar.png)
+## Example of Player Radar ![hal](images/D_Rice-vs-W_Ndidi-radar.png)
 
 
