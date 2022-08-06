@@ -18,7 +18,7 @@ The full report is found by clicking the link in the title. Alternatively, any v
 
 # [Scattergraphs for Player Scouting]()
 
-This project highlights a method of technically scouting players by comparing two particular statitsics. Here the use of scattergraphs is explained and they are utilised to visualise the most valued players. Additionlly, they may be used to understand the style of play of a player. 
+This project highlights a method of technically scouting players by comparing two particular statitsics. Here the use of scattergraphs is explained and they are utilised to visualise the most valued players. Additionally, they may be used to understand the style of play of a player. 
 
 The full report is found by clicking the link in the title. Alternatively, any visualisations are found [here](). Two examples of scattergrams for highlighting valuable players are shown bellow.
 
@@ -27,5 +27,4 @@ The full report is found by clicking the link in the title. Alternatively, any v
 
 ## Example of a Scattergram For Midfielder Actions ![](images/Midfield_Style_EPL_2021.png)
 
-# [Expected models to Evaluate Players]()
 
