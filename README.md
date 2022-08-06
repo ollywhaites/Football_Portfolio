@@ -8,7 +8,7 @@ The full report is found by clicking the link in the title. Alternatively, the v
 
 ## Example of Player Radar ![hal](images/D_Rice-vs-W_Ndidi-radar.png)
 
-# [Player Profiling using Weighted Average]()
+# [Player Profiling using Weighted Average](https://ollywhaites.github.io/weighted-avg-ranking/)
 
 This project highlights a method of profiling and ranking players using their statistics, explicitly from the Wyscout platform. It presents a way of catagorising statitsics to profile playing positions and using these profiles to rank the best players for this position. 
 
