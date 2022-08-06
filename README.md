@@ -20,10 +20,12 @@ The full report is found by clicking the link in the title. Alternatively, any v
 
 This project highlights a method of technically scouting players by comparing two particular statitsics. Here the use of scattergraphs is explained and they are utilised to visualise the most valued players. Additionlly, they may be used to understand the style of play of a player. 
 
-The full report is found by clicking the link in the title. Alternatively, any visualisations are found [here](). An example of this for CB's in the Premier League is shown below.
+The full report is found by clicking the link in the title. Alternatively, any visualisations are found [here](). Two examples of scattergrams for highlighting valuable players are shown bellow.
 
-## Example of Player Profiling
-![](images/Scoring_Actions_EPL_2021.png) ![](images/Midfield_Style_EPL_2021.png)
+## Example of a Scattergram For Attacking Actions
+![](images/Scoring_Actions_EPL_2021.png)
+
+## Example of a Scattergram For Midfielder Actions ![](images/Midfield_Style_EPL_2021.png)
 
 # [Expected models to Evaluate Players]()
 
