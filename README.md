@@ -10,6 +10,12 @@ The full report is found by clicking the link in the title. Alternatively, the v
 
 # [Player Profiling using Weighted Average]()
 
+This project highlights a method of profiling and ranking players using their statistics, explicitly from the Wyscout platform. It presents a way of catagorising statitsics to profile playing positions and using these profiles to rank the best players for this position. 
+
+The full report is found by clicking the link in the title. Alternatively, any visualisations are found [here](). An example of this for CB's in the Premier League is shown below.
+
+## Example of Player Profiling ![]()
+
 # [Scattergram for Player Scouting]()
 
 # [Expected models to Evaluate Players]()
