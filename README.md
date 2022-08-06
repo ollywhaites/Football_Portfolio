@@ -14,7 +14,7 @@ This project highlights a method of profiling and ranking players using their st
 
 The full report is found by clicking the link in the title. Alternatively, any visualisations are found [here](). An example of this for CB's in the Premier League is shown below.
 
-## Example of Player Profiling ![]()
+## Example of Player Profiling ![](images/CB_NLS_Ranking_leaflet_2021.png)
 
 # [Scattergram for Player Scouting]()
 
