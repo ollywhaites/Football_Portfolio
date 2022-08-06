@@ -8,4 +8,9 @@ The full report is found by clicking the link in the title. Alternatively, the v
 
 ## Example of Player Radar ![hal](images/D_Rice-vs-W_Ndidi-radar.png)
 
+# [Player Profiling using Weighted Average]()
+
+# [Scattergram for Player Scouting]()
+
+# [Expected models to Evaluate Players]()
 
