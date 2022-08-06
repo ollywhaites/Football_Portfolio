@@ -25,6 +25,7 @@ The full report is found by clicking the link in the title. Alternatively, any v
 ## Example of a Scattergram For Attacking Actions
 ![](images/Scoring_Actions_EPL_2021.png)
 
-## Example of a Scattergram For Midfielder Actions ![](images/Midfield_Style_EPL_2021.png)
+## Example of a Scattergram For Midfielder Actions 
+![](images/Midfield_Style_EPL_2021.png)
 
 
