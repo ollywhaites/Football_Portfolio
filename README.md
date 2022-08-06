@@ -18,7 +18,8 @@ The full report is found by clicking the link in the title. Alternatively, any v
 
 # [Scattergram for Player Scouting]()
 
-## Example of Player Profiling ![](images/CB_NLS_Ranking_leaflet_2021.png)
+## Example of Player Profiling
+![](images/Scoring_Actions_EPL_2021.png) ![](images/Midfield_Style_EPL_2021.png)
 
 # [Expected models to Evaluate Players]()
 
