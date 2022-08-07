@@ -16,7 +16,7 @@ The full report is found by clicking the link in the title. Alternatively, any v
 
 ## Example of Player Profiling ![](images/CB_EPL_Ranking_leaflet_2021.png)
 
-# [Scattergraphs for Player Scouting]()
+# [Scattergraphs for Player Scouting](https://github.com/ollywhaites/scattergraph-pl-scouting)
 
 This project highlights a method of technically scouting players by comparing two particular statitsics. Here the use of scattergraphs is explained and they are utilised to visualise the most valued players. Additionally, they may be used to understand the style of play of a player. 
 
