@@ -16,11 +16,12 @@ The full report is found by clicking the link in the title. Alternatively, any v
 
 ## Example of Player Profiling ![](images/CB_EPL_Ranking_leaflet_2021.png)
 
-# [Scattergraphs for Player Scouting](https://ollywhaites.github.io/scattergraph-pl-scouting/)
+# [Scattergraphs for Player Scouting](https://ollywhaites.github.io/scattergraph-pl-scouting/) <img src="https://user-images.githubusercontent.com/110287328/183289242-bfdee720-3d99-496b-8099-705c893eea6c.png" width="25" height="25">
+
 
 This project highlights a method of technically scouting players by comparing two particular statitsics. Here the use of scattergraphs is explained and they are utilised to visualise the most valued players. Additionally, they may be used to understand the style of play of a player. 
 
-The full report is found by clicking the link in the title. Alternatively, any visualisations are found [here](https://github.com/ollywhaites/scattergraph-pl-scouting/tree/main/images). Two examples of scattergrams to highlight valuable players is shown below.
+The full report is found by clicking the link in the title. Unfortunately, this report is still under construction. Any of the scattergrams are found [here](https://github.com/ollywhaites/scattergraph-pl-scouting/tree/main/images). Two examples of scattergrams to highlight valuable players is shown below.
 
 ## Example of a Scattergram For Attacking Actions
 ![](images/Scoring_Actions_EPL_2021.png)
