@@ -2,9 +2,9 @@
 
 # [Visualisations for Player Statistics](https://ollywhaites.github.io/football-stats-vis/)
 
-This is a project which I have developed for technical scouting of football players using their statistics. It presents **player radars**, **pizza plots** and **distribution plots**; three different methods of visualising football player's statistics. Each method is compared with the pros and cons demonstrated. A combination of all methods helps give a clear overview of the quality and playstyle of a player.
+This is a project which I have developed for technical scouting of football players using their statistics. It presents **player radars**, **pizza plots** and **distribution plots**; three different methods of visualising football player's statistics. Each method is compared, highlighting their the pros and cons. A combination of all methods helps give a clear overview of the quality and playstyle of a player.
 
-The full report is found by clicking the link in the title. Alternatively, the visualisations only are found [here](https://github.com/ollywhaites/football-stats-vis/tree/main/Plots). As an example, the radar plot is shown below.
+The full report is found by clicking the link in the title. Alternatively, solely the visualisations are found [here](https://github.com/ollywhaites/football-stats-vis/tree/main/Plots). As an example, a radar plot is shown below.
 
 ## Example of Player Radar ![hal](images/D_Rice-vs-W_Ndidi-radar.png)
 
@@ -20,7 +20,7 @@ The full report is found by clicking the link in the title. Alternatively, any v
 
 This project highlights a method of technically scouting players by comparing two particular statitsics. Here the use of scattergraphs is explained and they are utilised to visualise the most valued players. Additionally, they may be used to understand the style of play of a player. 
 
-The full report is found by clicking the link in the title. Alternatively, any visualisations are found [here](). Two examples of scattergrams for highlighting valuable players are shown bellow.
+The full report is found by clicking the link in the title. Alternatively, any visualisations are found [here](https://github.com/ollywhaites/scattergraph-pl-scouting/tree/main/images). Two examples of scattergrams to highlight valuable players is shown below.
 
 ## Example of a Scattergram For Attacking Actions
 ![](images/Scoring_Actions_EPL_2021.png)
