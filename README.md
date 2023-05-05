@@ -37,7 +37,7 @@ This project will highlight the multiple machine learning models developed to pr
 Unfortunately, this report is still under construction and is not ready to present. Below are visualisations of the methods:
 
 ## Example of a Elo Ranking
-![](images/CF_Finishing.png)
+![](images/Elo_St_albans_City.png)
 
 ## Example of a +/- Ranking
-![](images/Passing_CBs_2022.png)
+![](images/pm_plot.png)
