@@ -29,7 +29,7 @@ The full report is found by clicking the link in the title. Unfortunately, this 
 ## Example of a Scattergram For CB Passing 
 ![](images/Passing_CBs_2022.png)
 
-# [Predicting Match Outcomes] <img src="https://user-images.githubusercontent.com/110287328/183289242-bfdee720-3d99-496b-8099-705c893eea6c.png" width="25" height="25">
+# Predicting Match Outcomes <img src="https://user-images.githubusercontent.com/110287328/183289242-bfdee720-3d99-496b-8099-705c893eea6c.png" width="25" height="25">
 
 
 This project will highlight the multiple machine learning models developed to predict football matches using historical scoresheet data. The two models developed here are a head-to-head Elo method for ranking teams and a player +/- score method for ranking players. The Elo method was show to have an accuracy of ~60% at predicting matches where as the current +/- has a ~50% accuracy.
