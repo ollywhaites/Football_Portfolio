@@ -23,10 +23,10 @@ This project highlights a method of technically scouting players by comparing tw
 
 The full report is found by clicking the link in the title. Unfortunately, this report is still under construction. Any of the scattergrams are found [here](https://github.com/ollywhaites/scattergraph-pl-scouting/tree/main/images). Two examples of scattergrams to highlight valuable players is shown below.
 
-## Example of a Scattergram For Attacking Actions
-![](images/Scoring_Actions_EPL_2021.png)
+## Example of a Scattergram For Strikers
+![](images/CF_)Finishing.png)
 
-## Example of a Scattergram For Midfielder Actions 
-![](images/Midfield_Style_EPL_2021.png)
+## Example of a Scattergram For CB Passing 
+![](images/Passing_CBs_2022.png)
 
 
