@@ -40,4 +40,4 @@ Unfortunately, this report is still under construction and is not ready to prese
 ![](images/Elo-St_albans_City.png)
 
 ## Example of a +/- Ranking
-![](images/pm_plot.png)
+![](images/+:-.png)
