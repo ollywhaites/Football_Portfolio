@@ -53,7 +53,7 @@ Unfortunately, this report is still under construction and is not ready to prese
 ![](images/0-65min_pass_network_B.png)
 
 ## Example of a penalty tagging
-![](images/Tommy_Block_pen.png)
+![](images/Tommy_block_pen.png)
 ![](images/Charlie_Sheringham_pen.png)
 
 ## Example of a previous assits
