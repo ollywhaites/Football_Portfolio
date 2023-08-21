@@ -41,3 +41,20 @@ Unfortunately, this report is still under construction and is not ready to prese
 
 ## Example of a +/- Ranking
 ![](images/+:-.png)
+
+# Opposition Analysis <img src="https://user-images.githubusercontent.com/110287328/183289242-bfdee720-3d99-496b-8099-705c893eea6c.png" width="25" height="25">
+
+
+Here are a few examples of data visualisations I have created for opposition analysis. 
+
+Unfortunately, this report is still under construction and is not ready to present.
+
+## Example of a Pass Network
+![](images/0-65min_pass_network_By.png)
+
+## Example of a penalty tagging
+![](images/Samir_Carruthers_pen.png)
+![](images/Charlie_Sherringham_pen.png)
+
+## Example of a previous assits
+![](images/Dartford_assist_pen.png)
