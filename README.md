@@ -50,11 +50,11 @@ Here are a few examples of data visualisations I have created for opposition ana
 Unfortunately, this report is still under construction and is not ready to present.
 
 ## Example of a Pass Network
-![](images/0-65min_pass_network_By.png)
+![](images/0-65min_pass_network_B.png)
 
 ## Example of a penalty tagging
 ![](images/Samir_Carruthers_pen.png)
-![](images/Charlie_Sherringham_pen.png)
+![](images/Charlie_Sheringham_pen.png)
 
 ## Example of a previous assits
-![](images/Dartford_assist_pen.png)
+![](images/Dartford_assist.png)
