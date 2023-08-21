@@ -52,9 +52,9 @@ Unfortunately, this report is still under construction and is not ready to prese
 ## Example of a Pass Network
 ![](images/0-65min_pass_network_B.png)
 
-## Example of a penalty tagging
+## Example of a Penalty Tagging
 ![](images/Tommy_block_pen.png)
 ![](images/Charlie_Sheringham_pen.png)
 
-## Example of a previous assits
+## Example of a Previous Assists
 ![](images/Dartford_assist.png)
